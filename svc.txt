@@ -1,0 +1,4 @@
+manisha   10   5000
+abc       50   9000
+pranita   40   1000 
+soham     05   6000

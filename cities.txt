@@ -1,0 +1,4 @@
+nashik  50
+pune    20
+abc     10
+
